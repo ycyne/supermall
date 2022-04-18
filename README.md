@@ -1,5 +1,6 @@
 # supermall
-
+> 项目简介：项目是仿照coderwhy老师的vue实战项目做的
+> 对项目感兴趣可以在B站搜索coderwhy老师
 ## Project setup
 ```
 npm install
